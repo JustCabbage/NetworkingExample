@@ -1,0 +1,15 @@
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\TcpSocketsExample\bin\Debug\TcpSocketsExample.exe.config
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\TcpSocketsExample\bin\Debug\TcpSocketsExample.exe
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\TcpSocketsExample\bin\Debug\TcpSocketsExample.pdb
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\TcpSocketsExample\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\TcpSocketsExample\obj\Debug\TcpSocketsExample.exe
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\TcpSocketsExample\obj\Debug\TcpSocketsExample.pdb
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\Client\bin\Debug\Client.exe.config
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\Client\bin\Debug\Client.exe
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\Client\bin\Debug\Client.pdb
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\Client\obj\Debug\Client.exe
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\Client\obj\Debug\Client.pdb
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\Client\bin\Debug\Colorful.Console.dll
+E:\Program Files (x86)\VS Projects (2021)\TcpSocketsExample\Client\obj\Debug\Client.csproj.CopyComplete
